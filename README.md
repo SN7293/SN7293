@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shamroz Abbas.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Android App development
+- 💞️ I’m looking to collaborate on any App
+- 📫 How to reach me Email:shamrozabbas456@gmail.com
