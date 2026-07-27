@@ -56,7 +56,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SN7293&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" width="95%"/>
+<img src="github-profile-trophy-fork-two.vercel.app/?username=SN7293&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
