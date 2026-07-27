@@ -1,0 +1,55 @@
+<svg width="1220" height="200" viewBox="0 0 1220 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="t1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4f8cff"/><stop offset="100%" stop-color="#00d9ff"/></linearGradient>
+  </defs>
+  <g font-family="'Fira Code', 'Courier New', monospace">
+
+    <rect x="10" y="10" width="185" height="180" rx="14" fill="#0f1729" stroke="#00d9ff" stroke-width="1.5"/>
+    <circle cx="55" cy="55" r="20" fill="#122a45"/>
+    <text x="55" y="61" font-size="16" text-anchor="middle">🤖</text>
+    <text x="176" y="52" font-size="16" font-weight="700" fill="#00d9ff" text-anchor="end">SSS</text>
+    <text x="102" y="102" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="middle">Android Dev</text>
+    <text x="102" y="122" font-size="11" fill="#8b98ac" text-anchor="middle">Apps Built x5</text>
+    <rect x="30" y="150" width="145" height="5" rx="2.5" fill="#00d9ff"/>
+
+    <rect x="205" y="10" width="185" height="180" rx="14" fill="#0f1729" stroke="#ffbd2e" stroke-width="1.5"/>
+    <circle cx="250" cy="55" r="20" fill="#3a2f12"/>
+    <text x="250" y="61" font-size="16" text-anchor="middle">⭐</text>
+    <text x="371" y="52" font-size="16" font-weight="700" fill="#ffbd2e" text-anchor="end">S</text>
+    <text x="297" y="102" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="middle">Stargazer</text>
+    <text x="297" y="122" font-size="11" fill="#8b98ac" text-anchor="middle">Stars 10+</text>
+    <rect x="225" y="150" width="145" height="5" rx="2.5" fill="#ffbd2e"/>
+
+    <rect x="400" y="10" width="185" height="180" rx="14" fill="#0f1729" stroke="#4f8cff" stroke-width="1.5"/>
+    <circle cx="445" cy="55" r="20" fill="#122045"/>
+    <text x="445" y="61" font-size="16" text-anchor="middle">💙</text>
+    <text x="566" y="52" font-size="16" font-weight="700" fill="#4f8cff" text-anchor="end">A</text>
+    <text x="492" y="102" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="middle">Rising Star</text>
+    <text x="492" y="122" font-size="11" fill="#8b98ac" text-anchor="middle">Followers 15+</text>
+    <rect x="420" y="150" width="145" height="5" rx="2.5" fill="#4f8cff"/>
+
+    <rect x="595" y="10" width="185" height="180" rx="14" fill="#0f1729" stroke="#00d9ff" stroke-width="1.5"/>
+    <circle cx="640" cy="55" r="20" fill="#122a45"/>
+    <text x="640" y="61" font-size="16" text-anchor="middle">💻</text>
+    <text x="761" y="52" font-size="16" font-weight="700" fill="#00d9ff" text-anchor="end">A</text>
+    <text x="687" y="102" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="middle">Committer</text>
+    <text x="687" y="122" font-size="11" fill="#8b98ac" text-anchor="middle">Commits 300+</text>
+    <rect x="615" y="150" width="145" height="5" rx="2.5" fill="#00d9ff"/>
+
+    <rect x="790" y="10" width="185" height="180" rx="14" fill="#0f1729" stroke="#5fd97f" stroke-width="1.5"/>
+    <circle cx="835" cy="55" r="20" fill="#123a1a"/>
+    <text x="835" y="61" font-size="16" text-anchor="middle">📦</text>
+    <text x="956" y="52" font-size="16" font-weight="700" fill="#5fd97f" text-anchor="end">B</text>
+    <text x="882" y="102" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="middle">Creator</text>
+    <text x="882" y="122" font-size="11" fill="#8b98ac" text-anchor="middle">Repos 7+</text>
+    <rect x="810" y="150" width="145" height="5" rx="2.5" fill="#5fd97f"/>
+
+    <rect x="985" y="10" width="225" height="180" rx="14" fill="#0f1729" stroke="#7f77dd" stroke-width="1.5"/>
+    <circle cx="1030" cy="55" r="20" fill="#241a45"/>
+    <text x="1030" y="61" font-size="16" text-anchor="middle">🔥</text>
+    <text x="1191" y="52" font-size="16" font-weight="700" fill="#7f77dd" text-anchor="end">AA</text>
+    <text x="1097" y="102" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="middle">Kotlin Enthusiast</text>
+    <text x="1097" y="122" font-size="11" fill="#8b98ac" text-anchor="middle">Kotlin 60%+ of code</text>
+    <rect x="1005" y="150" width="185" height="5" rx="2.5" fill="#7f77dd"/>
+  </g>
+</svg>
