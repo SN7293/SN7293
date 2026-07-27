@@ -6,13 +6,43 @@
 
 <br/>
 
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<!-- 🪪 Swinging Lanyard ID Card (pure SVG, your real photo embedded) -->
+<img src="./shamroz-lanyard.svg?v=1" alt="Shamroz Abbas ID badge" width="300"/>
+
+</td>
+<td width="62%" valign="middle">
+
+### 📱 My Android Builds
+
+| 🤖 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [Project Name 1](https://github.com/SN7293/repo-1) | `Kotlin` `Jetpack Compose` | — |
+| [Project Name 2](https://github.com/SN7293/repo-2) | `Kotlin` `Firebase` | — |
+| [Project Name 3](https://github.com/SN7293/repo-3) | `Java` `MVVM` | — |
+
+<sub>Swap these with your real repo names/links and star counts.</sub>
+
+<br/>
+
+> 💙 *"I don't just write Kotlin, I architect it."*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-<img src="./shamroz-stats-graphs.svg?v=1" alt="GitHub Stats and Top Languages" width="100%"/>
+<img src="./shamroz-stats-graphs.svg?v=2" alt="GitHub Stats and Top Languages" width="100%"/>
 
 <br/><br/>
 
-<img src="./shamroz-trophies.svg?v=1" alt="Achievement Trophies" width="100%"/>
+<img src="./shamroz-trophies.svg?v=2" alt="Achievement Trophies" width="100%"/>
 
 <br/><br/>
 
@@ -20,7 +50,7 @@
 
 <img src="https://raw.githubusercontent.com/SN7293/SN7293/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
-<sub>This one genuinely needs a one-time GitHub Action (real live GitHub data, not a static image) — workflow file below.</sub>
+<sub>This one needs the GitHub Action (snake.yml) run once — real live data, not a static image.</sub>
 
 <br/><br/>
 
