@@ -1,90 +1,119 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shamroz+Abbas;Mobile+Developer+%7C+Kotlin+%26+Flutter;Building+Android+%26+iOS+Experiences;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center">
+
+<img src="assets/profile.jpg" width="150" style="border-radius:50%;border:3px solid #00FF9C;" alt="Shamroz Abbas"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shamroz+Abbas+%F0%9F%91%8B;Android+Developer;Kotlin+%7C+Java+%7C+Jetpack+Compose;Firebase-Powered+Apps+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamrozabbas&label=Profile%20Views&color=00ff41&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shamrozabbas?label=Followers&style=flat-square&color=00ff41" alt="Followers" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SN7293&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SN7293?label=Followers&style=for-the-badge&color=00FF9C" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00FF9C?style=for-the-badge" alt="status" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
-## `> whoami`
+</div>
 
-```bash
-const shamroz = {
-    role: "Mobile Developer",
-    stack: ["Kotlin", "Swift", "Flutter", "Dart", "Java"],
-    focus: "Building smooth, native-feeling Android & iOS apps",
-    currentlyLearning: "Jetpack Compose Multiplatform",
-    funFact: "Ships code faster than coffee gets cold â˜•"
-};
+<br/>
+
+## 📱 About Me
+
+```kotlin
+class ShamrozAbbas : AndroidDeveloper {
+    override val name = "Shamroz Abbas"
+    override val role = "Android Developer"
+    override val languages = listOf("Kotlin", "Java")
+    override val specialties = listOf("Jetpack Compose", "MVVM", "Firebase")
+    override val currentlyLearning = "Kotlin Multiplatform"
+    override val funFact = "Turns coffee into clean, crash-free UI ☕➡️📱"
+
+    fun sayHi() = println("Thanks for stopping by my profile!")
+}
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+<br/>
 
-## `> tech_stack --list`
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,flutter,dart,java,androidstudio,xcode,firebase,git,github&theme=dark" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/XML-0061FF?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+</p>
+
+<br/>
+
+## 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,git,github,figma,postman,vscode" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SN7293&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SN7293&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-## `> github_stats --render`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamrozabbas&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamrozabbas&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" width="42%" />
+  <img src="https://streak-stats.demolab.com/?user=SN7293&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shamrozabbas&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" width="70%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SN7293&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamrozabbas&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</p>
+<br/>
+
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamrozabbas&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" alt="Activity Graph" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-## `> connect --with-me`
-
-<p align="center">
-  <a href="mailto:shamrozabbas456@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/SN7293?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SN7293&repo=your-repo-1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
+  </a>
+  <a href="https://github.com/SN7293?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SN7293&repo=your-repo-2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
   </a>
 </p>
 
-<p align="center">
-  <em>Add your LinkedIn / Twitter / Instagram / portfolio links here â€” send me the handles and I'll wire up the badges.</em>
+<sub>Replace <code>your-repo-1</code> / <code>your-repo-2</code> with actual repo names you want pinned here.</sub>
+
+<br/>
+
+## 🧠 Currently
+
+- 🔭 Working on: *add your current app/project here*
+- 🌱 Learning: Kotlin Multiplatform · Advanced Jetpack Compose animations
+- 🤝 Open to: Android freelance work & collabs
+- 💬 Ask me about: Android architecture, Compose UI, Firebase integration
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=%2F%2F+Thanks+for+visiting+my+profile" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=100&section=footer" width="100%"/>
+</div>
