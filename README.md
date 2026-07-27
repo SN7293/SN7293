@@ -84,31 +84,3 @@
 *⭐️ Always learning, always building.* 🤖
 
 </div>
-<br/>
-
-## 🧠 Currently
-
-- 🔭 Working on: *add your current app/project here*
-- 🌱 Learning: Kotlin Multiplatform · Advanced Jetpack Compose animations
-- 🤝 Open to: Android freelance work & collabs
-- 💬 Ask me about: Android architecture, Compose UI, Firebase integration
-
-<br/>
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=100&section=footer" width="100%"/>
-</div>
